@@ -1,5 +1,3 @@
-//Sent an email to Tychonovich regarding this assignment being late for around half an hour.
-
 #include <stdio.h>
 #include <sys/socket.h>
 #include <arpa/inet.h>
